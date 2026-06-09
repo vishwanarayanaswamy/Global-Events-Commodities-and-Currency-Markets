@@ -14,13 +14,19 @@ The final output is a professional report (8–10 pages) combining data analytic
 
 ## Team
 
+## Team
+
 | # | Name | Role | Part I Tasks |
-|---|------|------| ------------ |
-| 1 | Khurshid Normurodov | Team Leader | Overall coordination, report structure, Section E (Comparison E25–E30) + Final Recommendation |
-| 2 | Dinesh Reddy Mallela | Data Analyst | Section A — Data Preparation & Understanding (A1–A5): date ranges, row counts, missing values, date formatting, Swift metrics
+|---|------|------|------------|
+| 1 | Vishwa Narayanaswamy | Team Leader | Section C — Trend & Visual Analytics (C13–C18): line charts, combined Gold/Silver chart, bar chart, latest values table |
+| 2 | Dinesh Reddy Mallela | Data Analyst | Section A — Data Preparation & Understanding (A1–A5): date ranges, row counts, missing values, date formatting, Swift metrics |
 | 3 | Nischitha Purushotham | Descriptive Analytics | Section B — Descriptive Analytics (B6–B12): highest/lowest prices, annual averages, top 5 years for Oil, Gold, Silver |
-| 4 | Vishwa Narayanaswamy | Visualisation Specialist | Section C — Trend & Visual Analytics (C13–C18): line charts, combined Gold/Silver chart, bar chart, latest values table |
-| 5 | Sampath Reddy Nimmareddy | Currency Analyst | Section D — Currency Tracker Analytics (D19–D24): top currencies, USD/RMB share & rank, offshore RMB data, bar chart |
+| 4 | Sampath Reddy Nimmareddy | Currency Analyst | Section D — Currency Tracker Analytics (D19–D24): top currencies, USD/RMB share & rank, offshore RMB data, bar chart |
+| 5 | Khurshid Normurodov | Senior Analyst / Project Coordinator (completed his part 1 and left the group) | Section E — Simple Comparison Questions (E25–E30): comparison analysis, dashboard, manager insights |
+| 6 | Sajan | New Team Member(going through questions E25-E30) | Part II questions to be assigned |
+| 7 | Shariq Mohammed Ali | New Team Member (going through questions E25-E30)| Part II questions to be assigned |
+
+---
 
 ---
 
@@ -116,7 +122,7 @@ The assignment has two parts with a minimum requirement for each.
 | D24 | Bar chart — top 10 currencies from one selected month | Bar chart |
 
 ### E. Simple Comparison Questions
-*(Assigned to: Khurshid Normurodov — Team Leader)*
+*(Assigned to: Khurshid Normurodov — Project coordinator)*
 
 | Q | Question | Expected Output |
 |---|----------|----------------|
@@ -233,17 +239,6 @@ Key global events to research and connect to data:
 
 ---
 
-## Task Assignment Summary
-
-| Member | Responsibility | Part I Section | Part II Focus |
-|--------|---------------|---------------|--------------|
-| Khurshid Normurodov (Leader) | Coordination, report structure, final review | Section E (Q25–30) | D — Business Interpretation & Recommendation |
-| Dinesh Reddy Mallela | Data cleaning and preparation | Section A (Q1–5) | A — Event Identification |
-| Nischitha Purushotham | Descriptive statistics and summaries | Section B (Q6–12) | B — Linking Events to Commodity Data |
-| Vishwa Narayanaswamy | Data visualisation and trend charts | Section C (Q13–18) | B — Linking Events to Commodity Data |
-| Sampath Reddy Nimmareddy | Currency tracker analysis | Section D (Q19–24) | C — Linking Events to Currency Data |
-
----
 
 ## Suggested Tooling
 
