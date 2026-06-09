@@ -1,5 +1,4 @@
 # Global-Events-Commodities-and-Currency-Markets
-# Global Events, Commodities and Currency Markets
 ### Applied Data Analytics and Market Research Assignment
 
 ---
