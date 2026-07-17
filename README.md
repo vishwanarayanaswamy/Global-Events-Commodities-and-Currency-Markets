@@ -18,12 +18,11 @@ The final output is a professional report (8–10 pages) combining data analytic
 | # | Name | Role | Part I Tasks |
 |---|------|------|------------|
 | 1 | Vishwa Narayanaswamy | Team Leader | Section C — Trend & Visual Analytics (C13–C18): line charts, combined Gold/Silver chart, bar chart, latest values table |
-| 2 | Dinesh Reddy Mallela | Data Analyst | Section A — Data Preparation & Understanding (A1–A5): date ranges, row counts, missing values, date formatting, Swift metrics |
-| 3 | Nischitha Purushotham | Descriptive Analytics | Section B — Descriptive Analytics (B6–B12): highest/lowest prices, annual averages, top 5 years for Oil, Gold, Silver |
-| 4 | Sampath Reddy Nimmareddy | Currency Analyst | Section D — Currency Tracker Analytics (D19–D24): top currencies, USD/RMB share & rank, offshore RMB data, bar chart |
-| 5 | Khurshid Normurodov | Senior Analyst / Project Coordinator (completed his part 1 and left the group) | Section E — Simple Comparison Questions (E25–E30): comparison analysis, dashboard, manager insights |
-| 6 | Sajan | New Team Member(going through questions E25-E30) | Part II questions to be assigned |
-| 7 | Shariq Mohammed Ali | New Team Member (going through questions E25-E30)| Part II questions to be assigned |
+| 2 | Nischitha Purushotham | Co- Team leader / Descriptive Analytics | Section B — Descriptive Analytics (B6–B12): highest/lowest prices, annual averages, top 5 years for Oil, Gold, Silver |
+| 3 | Sampath Reddy Nimmareddy | Currency Analyst | Section D — Currency Tracker Analytics (D19–D24): top currencies, USD/RMB share & rank, offshore RMB data, bar chart |
+| 4 | Khurshid Normurodov | Senior Analyst / Project Coordinator (completed his part 1 and left the group) | Section E — Simple Comparison Questions (E25–E30): comparison analysis, dashboard, manager insights |
+| 5 | Sajan | New Team Member(going through questions E25-E30) | Part II questions to be assigned |
+| 6 | Shariq Mohammed Ali | New Team Member (going through questions E25-E30)| Part II questions to be assigned |
 
 ---
 
